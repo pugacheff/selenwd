@@ -1,0 +1,1 @@
+{"uuid":"2f442e6a-fad8-4024-99de-f543cc0af9fd","name":"tests.TestBase","start":1568641634892,"stop":1568641635286,"befores":[{"name":"setUpClass","status":"passed","stage":"finished","description":"","start":1568641634906,"stop":1568641635193}],"afters":[{"name":"tearDownClass","status":"passed","stage":"finished","description":"","start":1568641635205,"stop":1568641635212}]}
